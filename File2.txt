@@ -1,7 +1,12 @@
 File to created for CR1 : test to rebase on remote server
 
-Change 1 : File updated for push check on remote
 
-Change 2 : added by someone repository
+Change 1 :- File updated for push check on remote
 
-Change 4 : to test change from remote master for rebase
+Change 2 :- added by someone on remote repository
+
+Change 3 :- test for rebase from local master
+
+Change 4 :- to test change from remote master for rebase
+
+
