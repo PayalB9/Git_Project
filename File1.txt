@@ -6,11 +6,12 @@ feature 1-login -updated login feature
 
 feature 2-logout
 
-bug1 - fixed
+bug1 -> fixed
 
 
-bug2 - fixed
+Bug2 -> fixed
 
 
-bug2 - fixed
+BUG2 - fixed
 
+Change added for rebase test
