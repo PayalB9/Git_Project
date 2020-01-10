@@ -2,8 +2,11 @@ Hello World!!
 
 Welcome to Git...!
 
-feature 1-login
+feature 1-login -updated login feature
 
 feature 2-logout
 
 bug1 - fixed
+
+bug2 - fixed
+
